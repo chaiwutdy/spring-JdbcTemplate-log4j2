@@ -1,6 +1,8 @@
 # spring-JdbcTemplate-log4j2
 Example JavaProject 
 
+pom.xml
+
 <dependencies>
     <dependency>
       <groupId>junit</groupId>
@@ -27,3 +29,5 @@ Example JavaProject
 	    <artifactId>spring-boot-starter-log4j2</artifactId>
 	    <version>1.3.3.RELEASE</version>
 	</dependency>
+
+</dependencies>
